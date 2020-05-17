@@ -1,0 +1,5 @@
+.vscode
+venv
+twitch.db
+geckodriver.log
+test.py
